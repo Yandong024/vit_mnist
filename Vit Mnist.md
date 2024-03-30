@@ -10,6 +10,10 @@
 
 (4) Inference; test_vit.py
 
+- python Env install
+
+pip install -r requirements.txt
+
 
 
 ## Visualization
